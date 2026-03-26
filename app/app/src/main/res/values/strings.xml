@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">游戏串流服务端</string>
+    <string name="open_accessibility">开启无障碍权限</string>
+    <string name="start_stream">启动串流</string>
+    <string name="stop_stream">停止串流</string>
+    <string name="stream_running">串流运行中</string>
+</resources>
